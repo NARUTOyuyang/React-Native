@@ -98,7 +98,7 @@
 	* 安装过程中有一些需要改动的选项：选择 Custom 选项：
 	![](media/14948430242948/14949089868978.png)￼
 	* 勾选 `Performance` 和 `Android Virtual Device`
-	![](media/14948430242948/14949090245232.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-additional-installs.png)￼
 	* 安装完成后，在 Android Studio 的启动欢迎界面中选择Configure | SDK Manager。
 	![](media/14948430242948/14949090798647.png)￼
 	* 在 SDK Platforms 窗口中，选择 Show Package Details，然后在 Android 6.0 (Marshmallow) 中勾选Google APIs、Android SDK Platform 23、Intel x86 Atom System Image、Intel x86 Atom_64 System Image 以及 Google APIs Intel x86 Atom_64 System Image。
