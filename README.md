@@ -54,7 +54,7 @@
 	![](media/14948430242948/14949070688502.png)￼
 	* 你需要关闭现有的命令符提示窗口然后重新打开，这样新的环境变量才能生效。
 	
-7. 安装最新的 [JDK] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)：
+7. 安装最新的 [JDK] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 	* Android Studio 需要 Java Development Kit [JDK] 1.8或更高版本。
 	
 8. 创建项目
