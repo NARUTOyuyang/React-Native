@@ -39,15 +39,15 @@
 	* 除非特别注明，请不要改动安装过程中的选项。比如 Android Studio 默认安装了 `Android Support Repository`，而这也是 React Native 必须的（否则在react-native run-android 时会报 `appcompat-v7` 包找不到的错误）。
 	* 确定所有安装都勾选了，尤其是`Android SDK和Android Device Emulator`。
 	* 在初步安装完成后，选择 Custom 安装项：
-	![](media/14948430242948/14949067574870.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-custom-install-windows.png)￼
 	* 检查已安装的组件，尤其是模拟器和 HAXM 加速驱动。
-	![](media/14948430242948/14949069005240.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-verify-installs-windows.png)￼
 	* 安装完成后，在 Android Studio 的欢迎界面中选择Configure | SDK Manager。
-	![](media/14948430242948/14949069323779.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-configure-sdk-windows.png)￼
 	* 在 SDK Platforms 窗口中，选择 Show Package Details，然后在 Android 6.0 (Marshmallow) 中勾选Google APIs、Android SDK Platform 23、Intel x86 Atom System Image、Intel x86 Atom_64 System Image 以及 Google APIs Intel x86 Atom_64 System Image。
-	![](media/14948430242948/14949069772817.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-android-sdk-build-tools-windows.png)￼
 	* 在SDK Tools窗口中，选择 Show Package Details，然后在Android SDK Build Tools中勾选Android SDK Build-Tools 23.0.1。（必须是这个版本）
-	![](media/14948430242948/14949070218557.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-android-sdk-platforms-windows.png)￼
 	
 6. 配置 ANDROID_HOME 环境变量：确保 ANDROID_HOME 环境变量正确地指向了你安装的 Android SDK 的路径。打开控制面板 -> 系统和安全 -> 系统 -> 高级系统设置 -> 高级 -> 环境变量 -> 新建
 	* 具体的路径可能和下图不一致，请自行确认。
@@ -96,15 +96,15 @@
 5. 安装 Android Studio：React Native 目前需要 Android Studio2.0 或更高版本。Android Studio 包含了运行和测试React Native 应用所需的 Android SDK 和模拟器。
 	* 除非特别注明，请不要改动安装过程中的选项。比如 Android Studio 默认安装了 Android Support Repository，而这也是React Native 必须的（否则在 react-native run-android 时会报 appcompat-v7 包找不到的错误）。
 	* 安装过程中有一些需要改动的选项：选择 Custom 选项：
-	![](media/14948430242948/14949089868978.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-custom-install.png)￼
 	* 勾选 `Performance` 和 `Android Virtual Device`
 	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-additional-installs.png)￼
 	* 安装完成后，在 Android Studio 的启动欢迎界面中选择Configure | SDK Manager。
-	![](media/14948430242948/14949090798647.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-configure-sdk.png)￼
 	* 在 SDK Platforms 窗口中，选择 Show Package Details，然后在 Android 6.0 (Marshmallow) 中勾选Google APIs、Android SDK Platform 23、Intel x86 Atom System Image、Intel x86 Atom_64 System Image 以及 Google APIs Intel x86 Atom_64 System Image。
-	  ![](media/14948430242948/14949091391058.png)￼
+	  ![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-android-sdk-platforms.png)￼
 	* 在 SDK Tools 窗口中，选择 `Show Package Details` ，然后在 `Android SDK Build Tools` 中勾选 `Android SDK Build-Tools 23.0.1`。（必须是这个版本）
-	![](media/14948430242948/14949092187124.png)￼
+	![](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-studio-android-sdk-build-tools.png)￼
 		
 6. 配置ANDROID_HOME环境变量
 	* 确保 ANDROID_HOME 环境变量正确地指向了你安装的 Android SDK 的路径。具体的做法是把下面的命令加入到~/.bash_profile 文件中：(译注：~表示用户目录，即/Users/你的用户名/，而小数点开头的文件在 Finder 中是隐藏的，并且这个文件有可能并不存在。
