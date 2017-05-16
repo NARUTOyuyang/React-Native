@@ -51,7 +51,7 @@
 	
 6. 配置 ANDROID_HOME 环境变量：确保 ANDROID_HOME 环境变量正确地指向了你安装的 Android SDK 的路径。打开控制面板 -> 系统和安全 -> 系统 -> 高级系统设置 -> 高级 -> 环境变量 -> 新建
 	* 具体的路径可能和下图不一致，请自行确认。
-	![](media/14948430242948/14949070688502.png)￼
+	![android](https://github.com/NARUTOyuyang/React-Native/blob/master/Img/constructImage/react-native-android-sdk-environment-variable-windows.png)￼
 	* 你需要关闭现有的命令符提示窗口然后重新打开，这样新的环境变量才能生效。
 	
 7. 安装最新的 [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
