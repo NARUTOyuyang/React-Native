@@ -18,7 +18,7 @@
 >那么为了大家有问题可以更好的交流，以及互相学习和进步，提供QQ群：`631730313`（适合交流）；微信公众号：`阳少小老弟`（方便阅读以下知识点），希望大家可以互相督促，互相进步，在不久的将来都能在当前领域成为重量级人物！如果觉得好，请给个 `star` 支持下。
 
 ## 目录
-[React Native 模块](https://github.com/NARUTOyuyang/React-Native/edit/master/README#user-content-react-native-模块)
+[React Native 模块](https://github.com/NARUTOyuyang/React-Native/edit/master/README##react-native-模块)
 
 ***
 ## React Native 模块
