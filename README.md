@@ -18,7 +18,8 @@
 >那么为了大家有问题可以更好的交流，以及互相学习和进步，提供QQ群：`631730313`（适合交流）；微信公众号：`阳少小老弟`（方便阅读以下知识点），希望大家可以互相督促，互相进步，在不久的将来都能在当前领域成为重量级人物！如果觉得好，请给个 `star` 支持下。
 
 ## 目录
-* [React Native 模块](https://github.com/NARUTOyuyang/React-Native#react-native-模块)
+* [基础篇之环境搭建](https://github.com/NARUTOyuyang/React-Native#react-native-模块)
+
 	* [基础篇之环境搭建](https://github.com/NARUTOyuyang/React-Native#基础篇之环境搭建)
 
 ***
@@ -26,6 +27,7 @@
 
 ***
 ### 基础篇之环境搭建（Mac支持 IOS 和 Android，Windows 仅支持 Android，除非你开黑盒子什么之类的工具）：
+
 >在 Windows 下搭建 React Native Android 开发环境：
 
 1. 安装 `Chocolatey` ：它是一个 Windows 上的包管理器,使用Chocolatey 来安装软件的时候，需要以管理员的身份来运行命令提示符窗口, 如果你实在装不上这个工具，也不要紧。下面所需的python2 和 nodejs 你可以分别单独去对应的官方网站下载安装即可。
