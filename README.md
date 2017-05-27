@@ -21,7 +21,7 @@
 * [React Native 模块](https://github.com/NARUTOyuyang/React-Native/edit/master/README#react-native-模块)
 
 ***
-## React Native 模块
+# React Native 模块
 ***
 ### 基础篇之环境搭建（Mac支持 IOS 和 Android，Windows 仅支持 Android，除非你开黑盒子什么之类的工具）：
 >在 Windows 下搭建 React Native Android 开发环境：
