@@ -19,7 +19,7 @@
 
 ## 目录
 * [React Native 模块](https://github.com/NARUTOyuyang/React-Native#react-native-模块)
-	* [基础篇之环境搭建](https://github.com/NARUTOyuyang/React-Native#基础篇之环境搭建)
+* [基础篇之环境搭建](https://github.com/NARUTOyuyang/React-Native#基础篇之环境搭建)
 
 ***
 ## React Native 模块
